@@ -1,141 +1,141 @@
 name;gender;age;edu_level;fav_animals;sweet_or_salty;fav_place
-Julianna;Female;<18;Primary;No preferences;No data;No data
-Olaf;Male;25-34;Secondary;Dogs;Sweet;Lake
-Iwo;Male;45-54;College;Dogs;Salty;Forest
-Jacek;Male;35-44;Secondary;Cats;Sweet;Mountains
-Mateusz;Male;35-44;College;Dogs;Sweet;Lake
-Wiktor;Male;25-34;College;Dogs;No data;Forest
-Marek;Male;25-34;College;Cats;Sweet;Mountains
-Mateusz;Male;25-34;College;No preferences;Sweet;Mountains
-Urszula;Female;45-54;College;Dogs;Sweet;Mountains
-Mariusz;Male;18-24;Secondary;Cats;Salty;Mountains
-Radosław;Male;35-44;College;No preferences;No data;Mountains
-Ida;Female;25-34;College;Dogs;Sweet;Forest
-Bartek;Male;35-44;College;Dogs;Sweet;Lake
-Jędrzej;Male;35-44;Secondary;Other;Sweet;Mountains
-Juliusz;Male;45-54;College;Other;No data;Lake
-Hubert;Male;35-44;Secondary;Cats;Sweet;Lake
-Artur;Male;>=65;College;No preferences;Sweet;No data
-Konrad;Male;45-54;College;Dogs;Salty;Mountains
-Mariusz;Male;35-44;College;Cats;Sweet;No data
-Sandra;Female;45-54;College;Cats and Dogs;Salty;Lake
-Łukasz;Male;35-44;College;Dogs;Salty;Lake
-Ida;Female;>=65;College;No preferences;Salty;Forest
-Stefan;Male;35-44;College;Dogs;Sweet;Lake
-Przemysław;Male;35-44;College;Dogs;Sweet;Lake
-Albert;Male;45-54;Secondary;Dogs;Sweet;Lake
-Mateusz;Male;45-54;College;Dogs;Salty;Forest
-Cezary;Male;35-44;College;Cats;Sweet;Mountains
-Robert;Male;35-44;College;Cats;Salty;Mountains
-Anastazja;Female;25-34;College;Cats;Salty;Mountains
-Jacek;Male;25-34;College;Cats;Sweet;Mountains
-Iwo;Male;55-64;College;Other;No data;No data
-Janina;Female;35-44;Secondary;Dogs;Sweet;Lake
-Iwo;Male;35-44;College;Cats;Sweet;Lake
-Przemysław;Male;25-34;Secondary;Other;Sweet;Other
-Jerzy;Male;45-54;Secondary;Cats;Salty;Other
-Albert;Male;25-34;Secondary;Dogs;Salty;Lake
-Tobiasz;Male;25-34;Secondary;Other;Salty;Mountains
-Dawid;Male;35-44;College;No preferences;Sweet;Lake
-Andrzej;Male;45-54;Secondary;Dogs;No data;Mountains
-Szymon;Male;25-34;College;Dogs;Sweet;Mountains
-Maksymilian;Male;45-54;College;Cats;Sweet;Forest
-Filip;Male;35-44;College;Dogs;Salty;Mountains
-Emil;Male;35-44;College;No preferences;Sweet;Forest
-Roksana;Female;35-44;Secondary;Dogs;Salty;Lake
-Melania;Female;45-54;College;Dogs;Sweet;Lake
-Filip;Male;45-54;Secondary;Dogs;Sweet;Lake
-Nataniel;Male;35-44;College;Other;Salty;Mountains
-Natasza;Female;45-54;College;Dogs;Sweet;Lake
-Igor;Male;Unknown;College;No preferences;No data;No data
+Gaja;Female;<18;Primary;No preferences;No data;Other
+Stanisław;Male;25-34;Secondary;Dogs;Sweet;Lake
+Kajetan;Male;45-54;College;Dogs;Salty;Forest
+Julian;Male;35-44;Secondary;Cats;Sweet;Mountains
+Damian;Male;35-44;College;Dogs;Sweet;Lake
+Kacper;Male;25-34;College;Dogs;No data;Forest
+Jakub;Male;25-34;College;Cats;Sweet;Mountains
+Mieszko;Male;25-34;College;No preferences;Sweet;Mountains
+Kalina;Female;45-54;College;Dogs;Sweet;Mountains
+Paweł;Male;18-24;Secondary;Cats;Salty;Mountains
+Franciszek;Male;35-44;College;No preferences;No data;Mountains
+Inga;Female;25-34;College;Dogs;Sweet;Forest
+Dominik;Male;35-44;College;Dogs;Sweet;Lake
+Filip;Male;35-44;Secondary;Other;Sweet;Mountains
+Borys;Male;45-54;College;Other;No data;Lake
+Iwo;Male;35-44;Secondary;Cats;Sweet;Lake
+Stefan;Male;>=65;College;No preferences;Sweet;Other
+Aleks;Male;45-54;College;Dogs;Salty;Mountains
+Józef;Male;35-44;College;Cats;Sweet;Other
+Nela;Female;45-54;College;Cats and Dogs;Salty;Lake
+Patryk;Male;35-44;College;Dogs;Salty;Lake
+Agnieszka;Female;>=65;College;No preferences;Salty;Forest
+Tomasz;Male;35-44;College;Dogs;Sweet;Lake
+Cezary;Male;35-44;College;Dogs;Sweet;Lake
+Tymoteusz;Male;45-54;Secondary;Dogs;Sweet;Lake
+Krzysztof;Male;45-54;College;Dogs;Salty;Forest
+Szymon;Male;35-44;College;Cats;Sweet;Mountains
+Alan;Male;35-44;College;Cats;Salty;Mountains
+Dorota;Female;25-34;College;Cats;Salty;Mountains
+Tymoteusz;Male;25-34;College;Cats;Sweet;Mountains
+Radosław;Male;55-64;College;Other;No data;Other
+Julianna;Female;35-44;Secondary;Dogs;Sweet;Lake
+Adam;Male;35-44;College;Cats;Sweet;Lake
+Filip;Male;25-34;Secondary;Other;Sweet;Other
+Marek;Male;45-54;Secondary;Cats;Salty;Other
+Nataniel;Male;25-34;Secondary;Dogs;Salty;Lake
+Mariusz;Male;25-34;Secondary;Other;Salty;Mountains
+Juliusz;Male;35-44;College;No preferences;Sweet;Lake
+Fabian;Male;45-54;Secondary;Dogs;No data;Mountains
+Wiktor;Male;25-34;College;Dogs;Sweet;Mountains
+Nataniel;Male;45-54;College;Cats;Sweet;Forest
+Szymon;Male;35-44;College;Dogs;Salty;Mountains
+Iwo;Male;35-44;College;No preferences;Sweet;Forest
+Anita;Female;35-44;Secondary;Dogs;Salty;Lake
+Marcelina;Female;45-54;College;Dogs;Sweet;Lake
+Radosław;Male;45-54;Secondary;Dogs;Sweet;Lake
+Gabriel;Male;35-44;College;Other;Salty;Mountains
+Olga;Female;45-54;College;Dogs;Sweet;Lake
+Marcin;Male;Unknown;College;No preferences;No data;Other
 Karina;Female;>=65;College;No preferences;Sweet;Mountains
-Marianna;Female;45-54;College;No preferences;Salty;Mountains
-Róża;Female;45-54;College;Other;Salty;Forest
-Elżbieta;Female;25-34;College;Dogs;Sweet;Other
-Norbert;Male;18-24;College;No preferences;Sweet;Mountains
-Olaf;Male;35-44;College;Dogs;Salty;Forest
-Nataniel;Male;25-34;Secondary;Cats;Salty;Forest
-Jakub;Male;55-64;College;Dogs;Sweet;Mountains
-Jacek;Male;35-44;College;Dogs;Salty;Mountains
-Kazimierz;Male;35-44;College;Dogs;Salty;Forest
+Sonia;Female;45-54;College;No preferences;Salty;Mountains
+Ewelina;Female;45-54;College;Other;Salty;Forest
+Sylwia;Female;25-34;College;Dogs;Sweet;Other
+Radosław;Male;18-24;College;No preferences;Sweet;Mountains
+Oliwier;Male;35-44;College;Dogs;Salty;Forest
+Maksymilian;Male;25-34;Secondary;Cats;Salty;Forest
+Leonard;Male;55-64;College;Dogs;Sweet;Mountains
+Ernest;Male;35-44;College;Dogs;Salty;Mountains
+Mikołaj;Male;35-44;College;Dogs;Salty;Forest
 Artur;Male;35-44;College;Other;Sweet;Lake
-Maksymilian;Male;45-54;College;Dogs;Salty;Mountains
-Karol;Male;35-44;College;Other;Salty;Lake
-Aurelia;Female;35-44;Secondary;No preferences;No data;No data
-Ada;Female;35-44;College;Cats and Dogs;Sweet;Mountains
-Alex;Male;35-44;College;Cats;Sweet;Mountains
-Dominik;Male;>=65;College;No preferences;Sweet;Mountains
-Mieszko;Male;45-54;College;Other;Salty;Other
-Jerzy;Male;45-54;College;Dogs;Sweet;Lake
-Dawid;Male;35-44;College;Dogs;Salty;Lake
-Angelika;Female;25-34;College;Dogs;Sweet;Lake
-Kornelia;Female;35-44;College;Other;Sweet;Lake
-Olaf;Male;55-64;College;Dogs;Salty;Lake
-Paweł;Male;55-64;College;Dogs;Salty;Lake
-Kornel;Male;45-54;College;Cats and Dogs;Salty;No data
-Łukasz;Male;35-44;College;Dogs;Salty;Mountains
-Julita;Female;35-44;College;Dogs;Sweet;Forest
-Daniel;Male;55-64;College;Cats and Dogs;Salty;Lake
-Natasza;Female;35-44;College;Dogs;Sweet;No data
-Olga;Female;25-34;College;Dogs;Sweet;Forest
-Tadeusz;Male;35-44;College;Dogs;Salty;No data
-Józef;Male;25-34;College;Other;Sweet;Mountains
-Patryk;Male;55-64;College;Dogs;Sweet;No data
-Maciej;Male;18-24;Secondary;Dogs;Salty;Mountains
-Elżbieta;Female;35-44;College;Dogs;Salty;Lake
-Ignacy;Male;45-54;College;Dogs;Salty;No data
-Anita;Female;35-44;College;Other;Sweet;Other
-Adrianna;Female;45-54;College;Dogs;Sweet;Lake
-Leonard;Male;35-44;College;No preferences;Salty;Mountains
-Olaf;Male;45-54;Secondary;Dogs;Salty;Mountains
-Cyprian;Male;25-34;College;Dogs;Salty;Lake
-Dawid;Male;35-44;College;Dogs;Salty;Lake
-Antoni;Male;25-34;College;Other;Sweet;Forest
-Stefan;Male;25-34;Secondary;Dogs;Salty;Mountains
-Tadeusz;Male;45-54;Secondary;Other;Sweet;Forest
-Angelika;Female;Unknown;College;Dogs;Sweet;Lake
-Franciszek;Male;35-44;College;Dogs;Salty;Forest
-Juliusz;Male;45-54;College;Dogs;Sweet;Forest
-Michał;Male;55-64;College;Dogs;Salty;Forest
-Gaja;Female;35-44;Secondary;Dogs;Sweet;Forest
-Marcel;Male;35-44;College;Dogs;Sweet;No data
-Julita;Female;35-44;College;Dogs;Sweet;Lake
-Andrzej;Male;35-44;College;No preferences;Sweet;Lake
-Ksawery;Male;35-44;College;No preferences;No data;No data
-Adrian;Male;45-54;Secondary;Other;Sweet;Other
-Maciej;Male;45-54;Secondary;No preferences;Salty;Mountains
-Michał;Male;55-64;College;Dogs;Sweet;Lake
-Łukasz;Male;35-44;Secondary;Dogs;Sweet;Mountains
-Sylwia;Female;35-44;College;Cats;Sweet;Mountains
-Rozalia;Female;45-54;College;Dogs;Sweet;Lake
-Natan;Male;25-34;Secondary;Cats;Sweet;Forest
-Franciszek;Male;45-54;College;Dogs;Sweet;Lake
-Bruno;Male;45-54;College;Dogs;Sweet;Lake
-Tadeusz;Male;35-44;College;Cats;Salty;Mountains
-Piotr;Male;45-54;College;Dogs;Salty;Other
-Natan;Male;45-54;College;Dogs;Sweet;Forest
-Grzegorz;Male;25-34;College;Cats;No data;No data
-Alan;Male;45-54;College;No preferences;Salty;Lake
-Olaf;Male;45-54;College;Other;Sweet;Forest
-Kornel;Male;45-54;College;Dogs;Sweet;Forest
-Antoni;Male;25-34;College;Dogs;Sweet;Mountains
-Ryszard;Male;45-54;Secondary;Other;Sweet;Mountains
-Fabian;Male;18-24;Secondary;Dogs;Salty;Lake
-Stanisław;Male;35-44;College;Dogs;Sweet;Lake
-Jacek;Male;45-54;College;Dogs;Salty;Forest
-Bruno;Male;>=65;College;Dogs;Sweet;Lake
-Stanisław;Male;35-44;College;Cats;Sweet;Mountains
-Borys;Male;35-44;College;Dogs;Salty;Other
-Olga;Female;45-54;College;Dogs;Sweet;No data
-Mieszko;Male;45-54;College;Other;Sweet;Lake
-Maurycy;Male;35-44;College;No preferences;Sweet;Forest
-Ignacy;Male;18-24;Secondary;Dogs;Salty;Mountains
-Jerzy;Male;35-44;College;Dogs;Salty;Lake
-Jan;Male;45-54;College;Cats;Salty;Forest
-Bartek;Male;35-44;College;Other;Sweet;Mountains
-Olgierd;Male;55-64;College;Dogs;Sweet;Lake
-Adam;Male;35-44;College;Cats;Salty;Mountains
-Marcin;Male;35-44;College;Dogs;Sweet;Mountains
-Ada;Female;45-54;College;Dogs;Sweet;Forest
-Janina;Female;35-44;College;Dogs;Salty;Lake
-Mateusz;Male;18-24;Secondary;Other;Sweet;Mountains
+Szymon;Male;45-54;College;Dogs;Salty;Mountains
+Maks;Male;35-44;College;Other;Salty;Lake
+Adrianna;Female;35-44;Secondary;No preferences;No data;Other
+Anastazja;Female;35-44;College;Cats and Dogs;Sweet;Mountains
+Marcin;Male;35-44;College;Cats;Sweet;Mountains
+Kamil;Male;>=65;College;No preferences;Sweet;Mountains
+Kornel;Male;45-54;College;Other;Salty;Other
+Ernest;Male;45-54;College;Dogs;Sweet;Lake
+Franciszek;Male;35-44;College;Dogs;Salty;Lake
+Julita;Female;25-34;College;Dogs;Sweet;Lake
+Liwia;Female;35-44;College;Other;Sweet;Lake
+Józef;Male;55-64;College;Dogs;Salty;Lake
+Konrad;Male;55-64;College;Dogs;Salty;Lake
+Olgierd;Male;45-54;College;Cats and Dogs;Salty;Other
+Alan;Male;35-44;College;Dogs;Salty;Mountains
+Agnieszka;Female;35-44;College;Dogs;Sweet;Forest
+Mikołaj;Male;55-64;College;Cats and Dogs;Salty;Lake
+Anita;Female;35-44;College;Dogs;Sweet;Other
+Sylwia;Female;25-34;College;Dogs;Sweet;Forest
+Artur;Male;35-44;College;Dogs;Salty;Other
+Wojciech;Male;25-34;College;Other;Sweet;Mountains
+Eryk;Male;55-64;College;Dogs;Sweet;Other
+Wiktor;Male;18-24;Secondary;Dogs;Salty;Mountains
+Anna Maria;Female;35-44;College;Dogs;Salty;Lake
+Kazimierz;Male;45-54;College;Dogs;Salty;Other
+Nela;Female;35-44;College;Other;Sweet;Other
+Anita;Female;45-54;College;Dogs;Sweet;Lake
+Dariusz;Male;35-44;College;No preferences;Salty;Mountains
+Stanisław;Male;45-54;Secondary;Dogs;Salty;Mountains
+Nataniel;Male;25-34;College;Dogs;Salty;Lake
+Tymoteusz;Male;35-44;College;Dogs;Salty;Lake
+Stefan;Male;25-34;College;Other;Sweet;Forest
+Nataniel;Male;25-34;Secondary;Dogs;Salty;Mountains
+Karol;Male;45-54;Secondary;Other;Sweet;Forest
+Apolonia;Female;Unknown;College;Dogs;Sweet;Lake
+Kornel;Male;35-44;College;Dogs;Salty;Forest
+Przemysław;Male;45-54;College;Dogs;Sweet;Forest
+Olgierd;Male;55-64;College;Dogs;Salty;Forest
+Agnieszka;Female;35-44;Secondary;Dogs;Sweet;Forest
+Gustaw;Male;35-44;College;Dogs;Sweet;Other
+Malwina;Female;35-44;College;Dogs;Sweet;Lake
+Krzysztof;Male;35-44;College;No preferences;Sweet;Lake
+Adam;Male;35-44;College;No preferences;No data;Other
+Alex;Male;45-54;Secondary;Other;Sweet;Other
+Marcin;Male;45-54;Secondary;No preferences;Salty;Mountains
+Oliwier;Male;55-64;College;Dogs;Sweet;Lake
+Ignacy;Male;35-44;Secondary;Dogs;Sweet;Mountains
+Kamila;Female;35-44;College;Cats;Sweet;Mountains
+Gaja;Female;45-54;College;Dogs;Sweet;Lake
+Gustaw;Male;25-34;Secondary;Cats;Sweet;Forest
+Juliusz;Male;45-54;College;Dogs;Sweet;Lake
+Jan;Male;45-54;College;Dogs;Sweet;Lake
+Krystian;Male;35-44;College;Cats;Salty;Mountains
+Nataniel;Male;45-54;College;Dogs;Salty;Other
+Bruno;Male;45-54;College;Dogs;Sweet;Forest
+Oliwier;Male;25-34;College;Cats;No data;Other
+Nataniel;Male;45-54;College;No preferences;Salty;Lake
+Iwo;Male;45-54;College;Other;Sweet;Forest
+Arkadiusz;Male;45-54;College;Dogs;Sweet;Forest
+Grzegorz;Male;25-34;College;Dogs;Sweet;Mountains
+Arkadiusz;Male;45-54;Secondary;Other;Sweet;Mountains
+Sebastian;Male;18-24;Secondary;Dogs;Salty;Lake
+Adrian;Male;35-44;College;Dogs;Sweet;Lake
+Miłosz;Male;45-54;College;Dogs;Salty;Forest
+Piotr;Male;>=65;College;Dogs;Sweet;Lake
+Fryderyk;Male;35-44;College;Cats;Sweet;Mountains
+Jeremi;Male;35-44;College;Dogs;Salty;Other
+Janina;Female;45-54;College;Dogs;Sweet;Other
+Nataniel;Male;45-54;College;Other;Sweet;Lake
+Mieszko;Male;35-44;College;No preferences;Sweet;Forest
+Patryk;Male;18-24;Secondary;Dogs;Salty;Mountains
+Józef;Male;35-44;College;Dogs;Salty;Lake
+Gabriel;Male;45-54;College;Cats;Salty;Forest
+Iwo;Male;35-44;College;Other;Sweet;Mountains
+Krystian;Male;55-64;College;Dogs;Sweet;Lake
+Jerzy;Male;35-44;College;Cats;Salty;Mountains
+Leon;Male;35-44;College;Dogs;Sweet;Mountains
+Nela;Female;45-54;College;Dogs;Sweet;Forest
+Sylwia;Female;35-44;College;Dogs;Salty;Lake
+Michał;Male;18-24;Secondary;Other;Sweet;Mountains
