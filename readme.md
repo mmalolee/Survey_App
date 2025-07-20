@@ -29,6 +29,9 @@ Explore answers from a welcome survey and show patterns in:
 ## Project Structure: 
 
 - survey_app_project
+    - images
+        - charts.png
+        - metrics.png
     - app.py
     - data_prepared.csv
     - data.csv
@@ -70,3 +73,13 @@ You can:
 - see which animals are liked most,
 - compare answers by gender,
 - see how people of different ages answered.
+
+## Demo
+
+- Metrics: 
+
+![metrics](images/metrics.png)
+
+- Charts:
+
+![charts](images/charts.png)
